@@ -1,0 +1,10 @@
+{
+  "hosted-zone:account=787845945917:domainName=convento.app:region=eu-central-1": {
+    "Id": "/hostedzone/Z014248010PWMMTMXOSG4",
+    "Name": "convento.app."
+  },
+  "hosted-zone:account=787845945917:domainName=scratch.convento.app:region=eu-central-1": {
+    "Id": "/hostedzone/Z015368221UZBIF0D4MKK",
+    "Name": "scratch.convento.app."
+  }
+}
